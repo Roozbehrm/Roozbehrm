@@ -1,28 +1,25 @@
 <div align="center">
-
 # 👋 Hi, I'm Roozbeh
-
-### Python & Django backend developer
-
+ 
+### Software Engineer · Python & Django Backend Developer
+ 
 I build secure, real-time, production-ready web backends and data pipelines.
-
+ 
 </div>
-
 ---
-
+ 
 ## 🧑‍💻 About me
-
-I'm a backend developer who enjoys the full journey of a product: modelling the data, designing the API, handling payments and notifications, and shipping it with Docker. I've built REST APIs, server-rendered Django sites, subscription and booking systems, and data-collection pipelines, and I care about the details that make software trustworthy: safe authentication, clear validation, automated tests, and good documentation.
-
+ 
+I'm a software engineer focused on backend development, and I enjoy the full journey of a product: modelling the data, designing the API, handling payments and notifications, and shipping it with Docker. I've built REST APIs, server-rendered Django sites, subscription and booking systems, and data-collection pipelines, and I care about the details that make software trustworthy: safe authentication, clear validation, automated tests, and good documentation.
+ 
 - 🔐 Secure authentication: JWT, OTP login, Google sign-in, permissions
 - ⚡ Real-time features with WebSockets and background jobs with Celery
 - 💳 Business logic: payments, wallets, subscriptions, and booking flows
 - 🌐 Both worlds: **REST APIs** (DRF) and **server-rendered sites** (Django templates, MVT)
 - 📊 Data work: web scraping, API collection, SQL analysis, and charts
 - 🚢 Docker, Nginx, Gunicorn, and environment-based configuration
-
 ## 🛠️ What I can do
-
+ 
 | Area | Skills |
 |---|---|
 | **Django & APIs** | Django (function and class-based views), Django REST Framework, templates, REST API design, JWT (SimpleJWT), Swagger / OpenAPI |
@@ -35,9 +32,9 @@ I'm a backend developer who enjoys the full journey of a product: modelling the 
 | **Data & Analysis** | Python, SQL (GROUP BY, aggregates), PostgreSQL, SQLAlchemy, API requests, BeautifulSoup, Selenium, Matplotlib |
 | **DevOps** | Docker Compose, Nginx, Gunicorn, WhiteNoise, split settings (dev / test / production), `.env` configuration |
 | **Quality** | pytest, Faker seed commands, clean project structure, README and ERD documentation |
-
+ 
 ## 🧰 Tech stack
-
+ 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-A30000)
@@ -52,9 +49,9 @@ I'm a backend developer who enjoys the full journey of a product: modelling the 
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
+ 
 ## 🌱 Currently
-
+ 
 - Deepening my skills in scalable real-time architectures
 - Improving testing and API security practices
 
